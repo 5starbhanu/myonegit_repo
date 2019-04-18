@@ -1,0 +1,19 @@
+body{
+  background: rgb(102, 255, 51);
+
+
+}
+.container{
+
+  text-align: center;
+
+
+
+}
+.jumbotron{
+  background: blue;
+  color: white;
+}
+.myone{
+  margin-top: 200px;
+}

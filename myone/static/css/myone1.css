@@ -1,0 +1,17 @@
+body{
+  background-color: yellow;
+}
+
+h1{
+  color: blue;
+  text-align: center;
+
+  border-bottom: 2px solid black;
+  border-left: 40px;
+}
+
+img{
+  height: 400px;
+  width: 30%;
+  margin: 10px;
+}
